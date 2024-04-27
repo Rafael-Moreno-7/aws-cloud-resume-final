@@ -25,7 +25,6 @@ import LogoGreenApex from '/public/images/logos/icon-trinuscorp.png';
 import LogoDotnpixel from '/public/images/logos/logo-dotnpixel.svg';
 import LogoDotnpixelLight from '/public/images/logos/logo-dotnpixel-light.svg';
 
-import ProjectFiskil from '/public/images/project-fiskil.png';
 import ProjectWingie from '/public/images/project-wingie.png';
 import ProjectPepehousing from '/public/images/project-pepehousing.png';
 
